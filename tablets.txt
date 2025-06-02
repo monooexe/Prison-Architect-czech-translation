@@ -1,0 +1,15 @@
+interfacecontrol_mainmenu               Hlavní menu
+interfacecontrol_mainmenu_tooltip       Přepínání hlavní nabídky (Nová hra/Načíst/Uložit atd.)
+
+object_firemen_hosehelp                 Stiskněte a podržte tlačítko pro pohyb. Stisknutím a podržením tlačítka na plamenech můžete hadice zaměřit ručně.
+
+click_to_continue                       Klepněte pro pokračování...
+gameover_caption                        Otvřete nabídku pro pokračování
+
+adviser_deathrow_explain5               Zatímco budeme čekat, rozhlédněte se kolem. Přetažením obrazovky pohybujte pohledem a přiblížení a oddálení provedete stisknutím dvou prstů.
+
+adviser_deathrow_internaldoors2         Objekt můžete před umístěním otočit klepnutím na tlačítko Otočit v pravé části obrazovky.
+
+objective_deathrow_buildinternaldoors   Postavit vnitřní dveře
+
+objective_food_extinguishflames_description Když máte vybrané hasiče, můžete stisknout a podržet plameny, abyste zaměřili jejich hadice, ale plameny musí být vzdálené méně než 15 čtverců.
