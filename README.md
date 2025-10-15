@@ -62,7 +62,7 @@ Podívej se, co je nového: [CHANGELOG.md](CHANGELOG.md)
 
 ---
 
-## 📬 Contact
+## 📬 Kontakt
 
 - GitHub: [@monooexe](https://github.com/monooexe)
 - Discord: `.mono.exe`
