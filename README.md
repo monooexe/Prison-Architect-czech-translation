@@ -3,7 +3,6 @@
 Tento repozitář obsahuje komunitní český překlad hry **Prison Architect**.
 Cílem projektu je nabídnout kompletní, přesnou a monzistentní lokalizaci pro česky mluvící hráče, která zlepší jejich herní zážitek.
 
---
 
 ## 🛠 O projektu
 
@@ -35,7 +34,7 @@ Cílem projektu je nabídnout kompletní, přesnou a monzistentní lokalizaci pr
 ## 💡 Chceš přispět?
 
 Každý návrh nebo oprava se počítá!  
-Pomoci můžeš i bez znalosti GitHubu – otevři issue s návrhem, nebo si přečti náš [CONTRIBUTING.md](CONTRIBUTING.md)
+Pomoci můžeš i bez znalosti GitHubu – otevři issue s návrhem, nebo si přečti můj [CONTRIBUTING.md](CONTRIBUTING.md)
 
 **Jak přispět:**
 - Opravit chybný překlad nebo překlep
@@ -70,4 +69,4 @@ Podívej se, co je nového: [CHANGELOG.md](CHANGELOG.md)
 
 ---
 
-Ďekujeme, že podporujete lokalizaci a pomáháte české komunitě hrát naplno! ❤️
+Děkuju, že podporujete lokalizaci a pomáháte české komunitě hrát naplno! ❤️
